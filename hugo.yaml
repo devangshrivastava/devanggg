@@ -50,8 +50,8 @@ params:
   profileMode:
     enabled: true # needs to be explicitly set
     title: "Welcome! \U0001F44B"
-    subtitle: "This is the website of **Devang Shrivastava** and
-    I love building technlogies and currently focus on blockchain and the realm of web3."
+    subtitle: "Hi I am **Devang Shrivastava** and
+    currently persuing my B.Tech in Computer Science and Engineering from IIT Jodhpur. Feel free to reach out to me, at shrivastavadevang0627@gmail.com"
     imageUrl: "images/dp.png"
     imageWidth: 120
     imageHeight: 120
