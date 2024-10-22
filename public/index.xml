@@ -13,22 +13,10 @@
       <link>//localhost:1313/about/</link>
       <pubDate>Sat, 09 Apr 2022 23:15:00 +0700</pubDate>
       <guid>//localhost:1313/about/</guid>
-      <description>&lt;p&gt;In my daytime, I work as a Developer Advocate at a US Tech company.&lt;/p&gt;
-&lt;p&gt;At night, I&amp;rsquo;m a content creator developing tutorials in data science for the following platforms:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;📺 &lt;strong&gt;YouTube&lt;/strong&gt;: &lt;a href=&#34;https://youtube.com/dataprofessor/&#34;&gt;&lt;strong&gt;Data Professor&lt;/strong&gt;&lt;/a&gt;, &lt;a href=&#34;https://youtube.com/codingprofessor/&#34;&gt;&lt;strong&gt;Coding Professor&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;📝 &lt;a href=&#34;https://data-professor.medium.com/&#34;&gt;&lt;strong&gt;Medium Blogs&lt;/strong&gt;&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;💻 &lt;a href=&#34;https://github.com/dataprofessor/&#34;&gt;&lt;strong&gt;GitHub&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;In my previous role, I was an Associate Professor of Bioinformatics carrying out research in computational drug discovery:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://scholar.google.com/citations?user=df-l7zQAAAAJ&amp;amp;hl=en&#34;&gt;&lt;strong&gt;Google Scholar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://orcid.org/0000-0003-1040-663X&#34;&gt;&lt;strong&gt;ORCID&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.scopus.com/authid/detail.uri?authorId=12039071300&#34;&gt;&lt;strong&gt;SCOPUS&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.researchgate.net/profile/Chanin-Nantasenamat-2&#34;&gt;&lt;strong&gt;ResearchGate&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;GitHub&lt;/strong&gt;: &lt;a href=&#34;https://github.com/chaninn/&#34;&gt;&lt;strong&gt;chaninn&lt;/strong&gt;&lt;/a&gt;, &lt;a href=&#34;https://github.com/chaninlab/&#34;&gt;&lt;strong&gt;chaninlab&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;You can also connect with me at the following social platforms:&lt;/p&gt;</description>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Hi, I’m Devang, a student at IIT Jodhpur with a deep passion for learning and building innovative technology. I am currently exploring the fields of blockchain and web3, and I thrive on curiosity, creativity, and tackling difficult challenges head-on.&lt;/p&gt;
+&lt;p&gt;Previously, I worked at a startup where I developed a cross-compiling toolchain using LLVM, converting code from x86 to RISC-V architecture. Currently, I am working as a cryptography assistant, helping a company build a secure chat application using the Signal Protocol. My role involves explaining the cryptography behind various protocols.&lt;/p&gt;</description>
     </item>
     <item>
       <title>How to master Streamlit for Data Science</title>
