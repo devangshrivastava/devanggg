@@ -55,7 +55,7 @@ params:
     imageUrl: "images/dp.png"
     imageWidth: 120
     imageHeight: 120
-    imageTitle: "Data Professor"
+    imageTitle: "Devang"
     buttons:
       - name: Blogs
         url: blogs
